@@ -1,6 +1,7 @@
 {
     // Name this configuration
     "name": "Codespace for Skills!",
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
     "customizations": {
         "vscode": {
             "extensions": [
